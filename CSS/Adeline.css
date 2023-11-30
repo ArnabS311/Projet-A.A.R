@@ -1,0 +1,130 @@
+       body {
+
+        box-shadow: none;
+
+        background-color: rgba(74, 192, 192, 0.373);
+        margin-right: auto;
+        margin-left: auto; }
+
+a{
+
+    color: black;
+    font-weight: 800;
+        text-align: center;
+      
+        margin-right: auto;
+        margin-left: auto;     
+    font-style: calc();
+    text-align: center;
+}
+    
+h2{
+    color: black;
+    font-weight: 100;
+        text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    font-style: calc();
+    text-align: center;
+
+}
+
+p{
+    color: black;
+    font-weight: 80;
+        text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        font-style:oblique;
+    text-align: center;
+
+}
+
+ul{
+
+    color: black;
+    font-weight: 100;
+        text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    font-style: oblique;
+    text-align: center;
+    text-decoration-line: underline;}
+
+
+       h1{color: rgb(43, 67, 226);
+        font-weight: 50;
+            text-align: center;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        font-style:oblique;
+        text-align: center;
+    }
+
+
+
+       .ecran{ 
+              
+    width: 100%; 
+        height: 90vh; 
+        background-image: url(""); 
+        background-position: center; 
+        background-size: cover;
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+       
+       } 
+       
+       a:-webkit-any-link {
+         color: whitesmoke;
+         cursor: pointer;
+         text-decoration: none;  
+     }
+   
+     .carte{ 
+        width: 100%; 
+        max-width: 500px; 
+        color: aliceblue; 
+        text-align: center; 
+        padding: 90px 90px; 
+   
+        border: 4px solid rgba(255,255,255, 0.3); 
+        background: rgb(255, 255, 255); 
+        border-radius: 35px; 
+        box-shadow: 50px 40px rgba(30, 63, 93, 0.861); 
+        backdrop-filter: blur(50px); 
+       
+       } 
+       
+       .carte img{ 
+        width: 250px; 
+         border-radius: 4%; 
+                } 
+        
+       .carte .reseau img{ 
+       
+        width: 10px; 
+        border-radius: 100%; 
+        margin: 300px 10px; 
+        
+        } 
+       
+  
+        footer{
+    
+            background-clip: unset;
+                 background-position: center; 
+                 background-size: cover;
+                 display: flex; 
+                 align-items: center; 
+                 justify-content: center; 
+                }
+
+  
+    
+ 
